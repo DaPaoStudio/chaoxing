@@ -222,9 +222,9 @@ class AutoSign(object):
 		params = {
 			'name': '',
 			'activeId': activeId,
-			'address': '中国',
+			'address': '陕西省西安市长安区兴隆街道西安电子科技大学长安校区B栋教学楼',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '1.87.208.173',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
